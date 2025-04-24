@@ -1,5 +1,6 @@
 ## 1 GenAI Certification
 ### Add the certification screenshot here:
+### Add the Credly badge link here:
 -----
 ## 2 Environment Setup
 ### Git Installation:
