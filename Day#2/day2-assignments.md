@@ -9,6 +9,6 @@
 ###  Paste the poster in this Repo
 -----
 ## 4 Create a new branch and add the Dockerfile
-###  all the code should be in the repo but with different branch name
+###  all the code should be in the same repo but with different branch name. Add the repo URL
 ###  Mention the branch name here
 -----
